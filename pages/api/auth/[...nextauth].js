@@ -18,8 +18,7 @@ export default NextAuth({
  
 
         
-        secret: process.env.JWT_SECRET,
-        getToken,
+        secret: process.env.NEXTAUTH_SECRET,
 
 
           
