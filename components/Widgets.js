@@ -47,7 +47,7 @@ function Widgets() {
         <img
             className="rounded-full"
             objectfit="cover"
-            src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/250970202_4539607949488461_2486864755508108149_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH20CuoZUsjPwCgo98Sxmc9CzQNS_J_3WsLNA1L8n_da1kHnodGQWjdWWSa81ZMi5GVDcCqMWGjhBBZ2QB1tK3q&_nc_ohc=c0QH9M1O58YAX8l0X8s&_nc_ht=scontent-los2-1.xx&oh=00_AT_qZM104rLfn-eK50MOpbHVTuPYyI6zYGwC6CUZ-kKA9Q&oe=630A4982" 
+            src="https://media-exp1.licdn.com/dms/image/C4E03AQH72fss_Ig7NA/profile-displayphoto-shrink_400_400/0/1639135128983?e=1666828800&v=beta&t=x5GiQ6QWpscmw0CwRxfEEi4L5lhg0CbjmjtsE5tSjgo" 
             width={50}
             height={50}
             layout="fixed"
@@ -57,7 +57,7 @@ function Widgets() {
     <div className="flex items-center space-x-3 mb-2 relative hover:bg-gray-200 cursor-pointer p-2 rounded-xl">
         <img
             className="rounded-full" 
-            src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/173545224_4228390563943536_5017911367866304328_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG8L90ZKsFd4te0R5evOaXtogZOEsPa57GiBk4Sw9rnsX-50TueNQdMX3NpxufzOe7noTimyjsuc6LLdvQxoZBT&_nc_ohc=SEwbxBpyj6kAX8Wxrqd&_nc_ht=scontent-los2-1.xx&oh=00_AT_iE0xBgHxqqQ_5brAQim-DipLVxY4PLt84QCRQDPi1Sw&oe=630A5D1C" 
+            src="https://media-exp1.licdn.com/dms/image/C4E03AQH72fss_Ig7NA/profile-displayphoto-shrink_400_400/0/1639135128983?e=1666828800&v=beta&t=x5GiQ6QWpscmw0CwRxfEEi4L5lhg0CbjmjtsE5tSjgo" 
             objectfit="cover"
             width={50}
             height={50}

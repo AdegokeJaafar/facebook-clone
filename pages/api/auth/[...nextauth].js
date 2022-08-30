@@ -1,5 +1,9 @@
 import NextAuth from "next-auth";
+import { getToken } from "next-auth/jwt"
 import FacebookProvider from "next-auth/providers/facebook";
+
+
+const secret = process.env.NEXTAUTH_SECRET
 
 export default NextAuth({
     // Configure one or more authentication providers
@@ -10,4 +14,13 @@ export default NextAuth({
         })
         //...ADD MORE PROVIDERS HERE
     ],
+    
+ 
+
+        
+        secret: process.env.JWT_SECRET,
+        getToken,
+
+
+          
 });
